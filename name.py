@@ -1,4 +1,4 @@
-#!/usr/bin/env
+#!/usr/bin/env python
 name=input("Enter your name : ")
 print("Hello",name)
 age = int(input("Please enter your age: "))
